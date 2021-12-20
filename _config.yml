@@ -1,6 +1,6 @@
 title: "Alec Goedinghaus"
 author: "Alec Goedinghaus"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "University of California, Los Angeles, 2023"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:alecgoedinghaus@ucla.edu"}
+  - {title: Github, icon: github, url: "https://github.com/alecgoedinghaus"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_aalleecc_/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
