@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html", title: "Home"}   # dont need since name redirects to home anyway
   - {file: "README.md", title: "About Me"}
-  - {file: "resume/alecgoedinghaus.pdf", title: "Resume"}
+  - {file: "alecgoedinghaus.pdf", title: "Resume"}
   - {file: "projects.md", title: "Projects"}
   - {file: "courses.md", title: "Courses"}
 
@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:alecgoedinghaus@ucla.edu"}
   - {titel: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/alecgoedinghaus"}
   - {title: Github, icon: github, url: "https://github.com/alecgoedinghaus"}
-  - {title: Instagram, icon: instagram-square, url: "https://www.instagram.com/_aalleecc_/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_aalleecc_/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
