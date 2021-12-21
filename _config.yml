@@ -1,5 +1,6 @@
 title: "Alec Goedinghaus"
 author: "Alec Goedinghaus"
+avatar : "https://avatars.githubusercontent.com/u/30130042?v=4"
 description: "University of California, Los Angeles, 2023"
 permalink: /:title/
 lang: "en"
@@ -35,7 +36,7 @@ comments:
 plugins:
  - jekyll-feed
 
- 
+
 # old index.html contents:
 
 # ---
