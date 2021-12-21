@@ -16,13 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "Home"}
+  - {file: "README.md", title: "About Me"}
+  - {file: "alecgoedinghaus.pdf", title: "Resume"}
+  # - {file: "/projects", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alecgoedinghaus@ucla.edu"}
+  - {titel: LinkedIn, icon: linkedin, url: "https://linkedin.com/alecgoedinghaus"}
   - {title: Github, icon: github, url: "https://github.com/alecgoedinghaus"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/_aalleecc_/"}
+  - {title: Instagram, icon: Instagram, url: "https://www.instagram.com/_aalleecc_/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
