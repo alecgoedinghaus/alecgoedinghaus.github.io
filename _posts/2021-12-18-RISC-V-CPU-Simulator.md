@@ -9,10 +9,10 @@ categories: [CS, C++]
 
 This project began as two separate projects for my computer architecture course (CS M151B / ECE M116C).
 
-The goal of the first project was to simulate a pipelined RISC-V CPU, capable of handing nine different instructions: `SUB`, `ADD`, `OR`, `AND`, `ADDI`, `ORI`, `ANDI`, `LW`, and `SW`.
+The goal of the first project was to simulate a pipelined RISC-V CPU, capable of handling nine different instructions: `SUB`, `ADD`, `OR`, `AND`, `ADDI`, `ORI`, `ANDI`, `LW`, and `SW`.
 
 The goal of the second project was to simulate a CPU cache with three different sorting policies: direct-mapped, fully associative, and set associative.
-Each policy has its pro's and con's, as the access time for a DM cache is much lower than SA and FA, but the miss rate for a DM cache is much higher than SA and FA.
+Each policy has its pros and cons, as the access time for a DM cache is much lower than SA and FA, but the miss rate for a DM cache is much higher than SA and FA.
 
 After the course I took the liberty of merging the two projects together, thus allowing the cache to give the CPU better performance.
 
