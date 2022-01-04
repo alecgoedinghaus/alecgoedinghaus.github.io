@@ -17,10 +17,12 @@ The project's full repository is public and can be viewed [here](https://github.
 
 Given the following image,
 
+<p align="center">
+    <img src="../assets/images/output.pdf">
+</p>
+
 ![Bust](../assets/images/bust.png)
 
 a tolerance of 20 will output
 
-<embed src="../assets/images/output.pdf" type="application/pdf">
-    <p>This browser does not support PDFs.</p>
-</embed>
+<embed src="../assets/images/output.pdf" type="application/pdf" width="1000" height="1000">
