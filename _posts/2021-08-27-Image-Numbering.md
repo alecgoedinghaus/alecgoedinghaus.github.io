@@ -21,8 +21,6 @@ Given the following image,
 
 a tolerance of 20 will output
 
-<object data="../assets/images/output.pdf" type="application/pdf">
-    <embed src="../assets/images/output.pdf">
-        <p>This browser does not support PDFs.</p>
-    </embed>
-</object>
+<embed src="../assets/images/output.pdf" type="application/pdf">
+    <p>This browser does not support PDFs.</p>
+</embed>
